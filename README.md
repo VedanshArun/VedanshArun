@@ -1,4 +1,4 @@
-[![MasterHead](https://cdn.dribbble.com/users/32512/screenshots/4787574/light_ai_design_by_gleb.gif)](https://rishavchanda.io)
+![Frame 2](https://github.com/VedanshArun/vedansharun/assets/41267558/3733a1d5-a68f-4984-9e09-3256e061d55a)
 
 <h1 align="center">Hi 👋, I'm Vedansh Arun</h1>
 <h3 align="center">AI/ML Developer | FrontEnd Developer | UI/UX Designer</h3>
