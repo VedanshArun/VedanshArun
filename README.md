@@ -1,8 +1,8 @@
 [![MasterHead](https://cdn.dribbble.com/users/32512/screenshots/4787574/light_ai_design_by_gleb.gif)](https://rishavchanda.io)
+
 <h1 align="center">Hi 👋, I'm Vedansh Arun</h1>
 <h3 align="center">AI/ML Developer | FrontEnd Developer | UI/UX Designer</h3>
 <img align = "right" alt = "coding animation" width = "400" src ="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vedansharun" alt="vedansharun" /></a> </p>
 
 - 🔭 I’m currently working on [bracketX](https://github.com/VedanshArun/bracketX)
 
